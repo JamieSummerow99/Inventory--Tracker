@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/models/digitalproducts.ts","./src/models/physicalproducts.ts","./src/models/products.ts","./src/models/customerrorhandling.ts","./src/models/dataprocessor.ts","./src/models/stack.ts","./src/utils/taxcalculator.ts"],"errors":true,"version":"5.8.3"}
